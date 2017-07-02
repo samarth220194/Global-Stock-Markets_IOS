@@ -13,4 +13,6 @@ Time schedules.
 ## Support
 
 - IOS danielgindi Charts: https://github.com/danielgindi/Charts
+- IOS XLPagerTabStrip Library : https://github.com/xmartlabs/XLPagerTabStrip
+- IOS SWReveaViewController Library : https://github.com/John-Lluch/SWRevealViewController
 - Stack Overflow: https://stackoverflow.com/questions/tagged/ios-charts
