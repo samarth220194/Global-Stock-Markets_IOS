@@ -1,4 +1,4 @@
-# Global-Stock-Markets
+# Global-Stock-Markets_IOS
 This IOS Application is designed for tracking the World's Indices through Real Time Charts. 
 It includes the Indices of all the continents of the world and a Chart View for tracking the Indices Values at different 
 Time schedules.
