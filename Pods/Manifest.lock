@@ -1,0 +1,27 @@
+PODS:
+  - Charts (3.0.2):
+    - Charts/Core (= 3.0.2)
+  - Charts/Core (3.0.2)
+  - XLPagerTabStrip (5.0.0)
+
+DEPENDENCIES:
+  - Charts
+  - XLPagerTabStrip (from `https://github.com/KelvinJin/XLPagerTabStrip`, branch `swift3`)
+
+EXTERNAL SOURCES:
+  XLPagerTabStrip:
+    :branch: swift3
+    :git: https://github.com/KelvinJin/XLPagerTabStrip
+
+CHECKOUT OPTIONS:
+  XLPagerTabStrip:
+    :commit: 99e3cbd5e6b99bb6b1fdf25f4af58fe2e38ad308
+    :git: https://github.com/KelvinJin/XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  Charts: 236d6ccdd0ce6feae151d89e829a7397381a21fd
+  XLPagerTabStrip: 87b8b705f9a7178e76a063ffaa2d70045944a965
+
+PODFILE CHECKSUM: 4a9a133fc730d706c5ce341b0f01bf8f95aa8e07
+
+COCOAPODS: 1.3.0.beta.1

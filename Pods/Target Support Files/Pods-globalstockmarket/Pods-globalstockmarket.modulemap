@@ -1,0 +1,6 @@
+framework module Pods_globalstockmarket {
+  umbrella header "Pods-globalstockmarket-umbrella.h"
+
+  export *
+  module * { export * }
+}
